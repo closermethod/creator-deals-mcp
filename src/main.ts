@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Creator Deals MCP Server v1.0
  * By Elisabeth Hitz — deal mechanics for creators: brand deals, UGC, newsletter sponsorships.
