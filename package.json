@@ -1,6 +1,6 @@
 {
   "name": "creator-deals-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creator Deals MCP for AI agents and creators. Deal-mechanics interpretation for brand deals, UGC, and newsletter sponsorships: pricing models, usage rights, whitelisting, exclusivity, negotiation moves, sponsor vetting. Structure, not rate quotes.",
   "main": "dist/main.js",
   "type": "module",
@@ -38,5 +38,6 @@
   "files": [
     "dist",
     "README.md"
-  ]
+  ],
+  "mcpName": "io.github.closermethod/creator-deals-mcp"
 }

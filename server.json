@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.closermethod/creator-deals-mcp",
+  "description": "Deal mechanics for brand deals, UGC, and newsletter sponsorships: rights, exclusivity, negotiation.",
+  "repository": {
+    "url": "https://github.com/closermethod/creator-deals-mcp",
+    "source": "github"
+  },
+  "version": "1.0.2",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "creator-deals-mcp",
+      "version": "1.0.2",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
